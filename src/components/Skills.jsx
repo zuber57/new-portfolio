@@ -4,13 +4,21 @@ import { motion } from 'framer-motion';
 const skills = [
   'React',
   'Vue.js',
+  'next.js',
   'JavaScript',
+  'Jquery',
+  'Api',
+  'Liquid',
+  'Shopify App Development',
+  'Shopify Cli',
   'HTML5',
   'CSS3',
   'Tailwind CSS',
   'Shopify',
   'Wordpress',
   'Git',
+  'Material Ui',
+  'Shadcn'
 ];
 
 const Skills = () => {

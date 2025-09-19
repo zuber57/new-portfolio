@@ -4,8 +4,14 @@ const projects = [
   {
     title: 'E-Commerce Platform',
     description:
-      'Built a full-stack e-commerce platform with React, Redux, and Firebase.',
+      'Built a full-stack e-commerce platform',
     link: 'https://stylum.vercel.app/',
+  },
+  {
+    title: 'Kca',
+    description:
+      'Built a full-stack e-commerce platform Shopify liquid',
+    link: 'https://www.kcadepot.com/',
   },
   {
     title: 'Real-Time Chat App',

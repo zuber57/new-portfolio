@@ -16,7 +16,7 @@ const Hero = () => {
 
       {/* Subtitle */}
       <p className="text-lg sm:text-xl md:text-2xl mb-6 text-center max-w-3xl">
-        Frontend Developer | React Js Developer | Shopify | Bigcommerce | Wordpress
+        Frontend Developer | React Js Developer | Next js | Tailwind Css| Shopify | Bigcommerce | Wordpress
       </p>
 
       {/* Button */}

@@ -3,11 +3,34 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
+    company: "Beta Soft Technology, Delhi",
+    role: "Frontend Developer / Shopify Developer",
+    duration: "Aug 2024 – Present",
+    achievements: [
+      "Spearheaded the development and optimization of high-traffic eCommerce stores on Shopify, including major projects like KCA and Sunskara, delivering seamless user experiences and robust functionality.",
+      "Enhanced website performance by implementing advanced performance optimization techniques, significantly reducing load times and boosting user engagement.",
+      "Integrated multiple third-party apps and custom solutions to extend functionality, improving store performance, scalability, and ease of use.",
+      "Utilized Next.js to build high-performance, dynamic pages for the Expertalia site, improving both SEO and load efficiency.",
+      "Collaborated with cross-functional teams, including designers, backend developers, and project managers, to deliver end-to-end solutions aligned with client goals."
+    ]
+  },
+  {
+    company: "DhampurGreen, Delhi",
+    role: "Web Developer",
+    duration: "April 2024 – Aug 2025",
+    achievements: [
+      "Started as a freelance web developer, working on both DhampurGreen.com and DelightFoods.com, where I implemented a custom search functionality on Shopify, enhancing user experience and product discoverability.",
+      "Transitioned to a full-time role, taking ownership of ongoing website optimization and performance improvements across both websites, significantly reducing load times and improving site responsiveness.",
+      "Integrated multiple third-party apps and custom solutions into both DhampurGreen.com and DelightFoods.com to boost store performance, streamline operations, and enhance customer engagement.",
+      "Collaborated with design, marketing, and backend teams to ensure seamless integration of branding, promotions, and ecommerce functionality on both websites."
+    ]
+  },  
+  {
     company: 'Makkpress Enterprise, Delhi',
     role: 'Frontend Developer',
-    duration: 'January 2024 – Present',
+    duration: 'January 2024 - July 2025',
     achievements: [
-      'Spearheaded development of 12+ client websites using React and TypeScript, improving page load speed by 35% via lazy loading and code splitting.',
+      'Spearheaded development of 12+ client websites using React , Shopify ,wordpress improving page load speed by 35% via lazy loading and code splitting.',
       'Reduced client redesign requests by 50% by creating interactive prototypes in Figma, aligning with UX best practices.',
       'Integrated REST APIs with Axios, enhancing data fetching efficiency and reducing API latency by 20%.',
     ],
