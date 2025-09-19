@@ -5,7 +5,7 @@ const projects = [
     title: 'E-Commerce Platform',
     description:
       'Built a full-stack e-commerce platform',
-    link: 'https://stylum.vercel.app/',
+    link: 'https://web-store-roan.vercel.app/',
   },
   {
     title: 'Kca',
