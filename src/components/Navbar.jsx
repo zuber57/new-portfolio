@@ -53,6 +53,7 @@ const Navbar = () => {
             <a
               href="https://drive.google.com/file/d/1klsuEDI0WBevhsu22BxrhZAYOJAS1I4I/view?usp=drive_link" // Replace with the correct path to your CV
               className="text-gray-800 hover:text-blue-500"
+              target='_blank'
               download
             >
               Download CV
