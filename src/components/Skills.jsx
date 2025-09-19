@@ -31,7 +31,7 @@ const Skills = () => {
       className="py-20 bg-white w-full"
     >
       <div className="container mx-auto px-4 w-full">
-        <h2 className="text-4xl font-bold text-center mb-8">Skills</h2>
+        <h2 className="text-4xl font-bold text-center text-[#000] mb-8">Skills</h2>
         <div className="flex flex-wrap justify-center gap-4">
           {skills.map((skill, index) => (
             <motion.div

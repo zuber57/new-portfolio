@@ -57,7 +57,7 @@ const Experience = () => {
       className="py-20 bg-white"
     >
       <div className="container mx-auto px-4 w-full">
-        <h2 className="text-4xl font-bold text-center mb-8">Experience</h2>
+        <h2 className="text-4xl font-bold text-center text-[#000] mb-8">Experience</h2>
         <div className="space-y-8">
           {experiences.map((exp, index) => (
             <motion.div

@@ -37,7 +37,7 @@ const Contact = () => {
       className="py-20 bg-white"
     >
       <div className="container mx-auto px-4 w-full">
-        <h2 className="text-4xl font-bold text-center mb-8">Contact Me</h2>
+        <h2 className="text-4xl font-bold text-center text-[#000] mb-8">Contact Me</h2>
         <form ref={form} onSubmit={sendEmail} className="max-w-2xl mx-auto">
           <input
             type="text"
