@@ -128,7 +128,7 @@ const Navbar = () => {
           {/* Download CV button (mobile) */}
           <li>
             <a
-              href="https://drive.google.com/file/d/13GmSd773K6y4WtqFgRaV9sMSNtnLEnMy/view?usp=drive_link" // Replace with the correct path to your CV
+              href="https://drive.google.com/file/d/1klsuEDI0WBevhsu22BxrhZAYOJAS1I4I/view?usp=drive_link" // Replace with the correct path to your CV
               className="bg-red text-gray-800 hover:text-blue-500"
               download
               onClick={() => setIsMobileMenuOpen(false)}
